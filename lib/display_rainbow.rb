@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def #display_rainbow(array_of_colors)
- puts "R: #{array_of_colors[0]}, O: #{array_of_colors[1]}, Y: #{array_of_colors[2]}, G: #{array_of_colors[3]}, B: #{array_of_colors[4]}, I: #{array_of_colors[5]}, V: #{array_of_colors[6]}"
+def #display_rainbow(colors)
+ puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
   
 end
